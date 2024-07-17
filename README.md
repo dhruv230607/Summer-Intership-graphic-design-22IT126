@@ -381,5 +381,5 @@ This repository contains the weekly report for the fourth week of my graphic des
 - [City Magazine](https://www.canva.com/design/DAGH_3S80Eg/GhTChtKsYY6QLqbXHd8p0Q/edit?utm_content=DAGH_3S80Eg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-**Author:** Dhruv Prajapati 
+**Author:** Dhruv Prajapati  
 **Email:** dhruv94085@gmail.com
