@@ -80,7 +80,7 @@ This repository contains the weekly report for the first week of my graphic desi
 
 ## Supporting Documents
 
-![Example Poster](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/Study%20Abord.png?raw=true)
+- [Poster](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/Study%20Abord.png?raw=true)
 - [ website design](https://www.canva.com/design/DAGFu5Xc1kw/CUtiNu_ILtOYin7fx-8CCg/edit?utm_content=DAGFu5Xc1kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Magazines](https://new.express.adobe.com/id/urn:aaid:sc:AP:a59eb9ff-4b82-4bbe-9d55-fa1df077e557?invite=true&promoid=Z2G1FQKR&mv=other)
   
