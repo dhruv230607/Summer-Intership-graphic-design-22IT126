@@ -267,13 +267,7 @@ This repository contains the weekly report for the first week of my graphic desi
 
 ## Supporting Documents
 
-- [Posters](./posters/)
-    - [Poster 1](./posters/poster1.png)
-    - [Poster 2](./posters/poster2.png)
-    - [Poster 3](./posters/poster3.png)
-    - [Poster 4](./posters/poster4.png)
-- [Brochure](./brochures/brochure.pdf)
-- [Website Design](./websites/design.png)
-- [Carousel Posters](./carousels/)
-    - [Carousel Poster 1](./carousels/carousel1.png)
-    - [Carousel Poster 2](./carousels/carousel2.png)
+- [Poster 1](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/Tobacco%20Day.png)
+- [Carousel Posters](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/myntra.png)
+- [Brochure](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/Untitled%20(1).pdf)
+- [Website Design](https://www.canva.com/design/DAGHKK_m22c/JQ5QY7BQTwV16DAKSAjIvg/edit?utm_content=DAGHKK_m22c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
