@@ -271,3 +271,115 @@ This repository contains the weekly report for the first week of my graphic desi
 - [Carousel Posters](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/myntra.png)
 - [Brochure](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/Untitled%20(1).pdf)
 - [Website Design](https://www.canva.com/design/DAGHKK_m22c/JQ5QY7BQTwV16DAKSAjIvg/edit?utm_content=DAGHKK_m22c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+  ## Reporting No: 4 | Week No: 4 | From: 07/06/2024 To: 15/06/2024
+**College ID:** 22IT126
+
+This repository contains the weekly report for the fourth week of my graphic design internship at ADM Welfare Society.
+
+## Table of Contents
+1. [Work Done](#work-done)
+    - [07/06/2024 - Friday](#07062024---friday)
+    - [08/06/2024 - Saturday](#08062024---saturday)
+    - [10/06/2024 - Monday](#10062024---monday)
+    - [11/06/2024 - Tuesday](#11062024---tuesday)
+    - [12/06/2024 - Wednesday](#12062024---wednesday)
+    - [13/06/2024 - Thursday](#13062024---thursday)
+    - [14/06/2024 - Friday](#14062024---friday)
+    - [15/06/2024 - Saturday](#15062024---saturday)
+2. [Supporting Documents](#supporting-documents)
+
+## Work Done
+
+### 07/06/2024 - Friday
+**10:30-12:00 PM:** Tasked with designing the Zomato app, due in 2 days.
+
+**12:30-3:00 PM:** Improved website design.
+
+**3:30-5:30 PM:** Made decorative changes.
+
+### 08/06/2024 - Saturday
+**10:30-12:00 PM:** Continued with the task of designing the Zomato website.
+
+**12:30-3:00 PM:** Improved the website.
+
+**3:30-5:30 PM:** Made adjustments based on feedback from my supervisor.
+
+**7:00 PM:** Submitted the website design.
+
+**9:00-10:00 PM:** Attended the Creative Departmental meeting.
+
+### 10/06/2024 - Monday
+**10:30-12:00 PM:** Tasked with creating two posters and two banners for a free physiotherapy camp.
+
+**12:30-3:00 PM:** Created two posters.
+
+**3:30-5:30 PM:** Created two banners.
+
+**8:00 PM:** Submitted the posters and banners.
+
+**9:00-10:00 PM:** Attended a Club Meeting.
+
+### 11/06/2024 - Tuesday
+**10:30-12:00 PM:** Tasked with creating three posters for a free camp, as detailed by my supervisor.
+
+**12:30-3:00 PM:** Created three posters.
+
+**3:30-5:30 PM:** Made decorative changes.
+
+**7:00 PM:** Submitted the posters.
+
+**8:00-9:00 PM:** Attended the Graphic Design meeting.
+
+### 12/06/2024 - Wednesday
+**10:30-12:00 PM:** Tasked with creating a new logo for ADM.
+
+**12:30-3:00 PM:** Improved the logo design.
+
+**3:30-5:30 PM:** Made adjustments based on feedback from my supervisor.
+
+**8:00 PM:** Submitted the logo.
+
+### 13/06/2024 - Thursday
+**10:00-12:00 PM:** Tasked with creating a magazine for a city of my choice.
+
+**12:30-3:00 PM:** Chose a city and started working on the magazine.
+
+**3:30-5:30 PM:** Made adjustments based on feedback from my supervisor.
+
+**8:00 PM:** Submitted the magazine.
+
+### 14/06/2024 - Friday
+**10:30-12:00 PM:** Tasked with designing an educational application aimed at improving access to quality education for students in rural areas, covering grades 1 to 10.
+
+**12:30-3:00 PM:** Developed the design concept.
+
+**3:30-5:30 PM:** Made adjustments to the design.
+
+### 15/06/2024 - Saturday
+**10:30-12:00 PM:** Created login and logout pages for the educational application.
+
+**12:30-3:00 PM:** Developed the design idea.
+
+**3:30-5:30 PM:** Made adjustments to the design.
+
+**6:00 PM:** Created a goodbye video and uploaded all work to the drive.
+
+**8:00 PM:** Submitted the design idea.
+
+## Supporting Documents
+
+- [Zomato App Design Screens](./zomato-app/screens/)
+- [Posters](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/poster%201.png)
+- [Posters](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/poster%202.png)
+- [Posters](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/DR.%20SHAHBAJ%20ALI(BPT)%20CONTACT-%20%2B918053421305.png)
+- [Posters](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%AB%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%A5%E0%A5%87%E0%A4%B0%E0%A5%87%E0%A4%AA%E0%A5%80.png)
+- [Posters](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/Anita%20Devi%20Memorial%20Education%20and%20Welfare%20Society.png)
+- [Banners]([./physiotherapy-camp/banners/](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/banar%201.png))
+- [Banners](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/banar%202.png)
+- [ADM Logo](https://github.com/dhruv230607/Summer-Intership-graphic-design-22IT126/blob/main/ADM.png)
+- [City Magazine](https://www.canva.com/design/DAGH_3S80Eg/GhTChtKsYY6QLqbXHd8p0Q/edit?utm_content=DAGH_3S80Eg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+**Author:** Dhruv Prajapati 
+**Email:** dhruv94085@gmail.com
